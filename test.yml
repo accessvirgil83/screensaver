@@ -1,0 +1,14 @@
+media_files:
+  - type: image
+    path: 'path/to/image1.jpg'
+  - type: image
+    path: 'path/to/image2.png'
+  - type: video
+    path: 'path/to/video1.mp4'
+  - type: video
+    path: 'path/to/video2.avi'
+
+screensaver_settings:
+  start_time: '09:00'
+  end_time: '18:00'
+  inactivity_timeout: 300 # seconds
